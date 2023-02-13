@@ -1,6 +1,8 @@
 # Hitech
 <a href="hitech-copy.vercel.app">Vizit</a>
 
+![image](https://user-images.githubusercontent.com/103760832/218571761-b10225ac-887b-432a-a513-a6b23d437814.png)
+
 
 This template should help get you started developing with Vue 3 in Vite.
 
